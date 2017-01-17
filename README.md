@@ -1,5 +1,7 @@
 # platformer
 
+![Imgur](http://i.imgur.com/GZsHDiK.png)
+
 ## Software version used
 
 ### get haxe
